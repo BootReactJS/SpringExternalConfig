@@ -1,0 +1,9 @@
+[submodule "springcloudconfiguration"]
+	path = springcloudconfiguration
+	url = https://github.com/BootReactJS/springcloudconfiguration.git
+[submodule "paymentservice"]
+	path = paymentservice
+	url = https://github.com/BootReactJS/paymentservice.git
+[submodule "cloudconfigserver"]
+	path = cloudconfigserver
+	url = https://github.com/BootReactJS/cloudconfigserver.git
